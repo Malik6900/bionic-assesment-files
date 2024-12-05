@@ -171,14 +171,12 @@ nav-section p {
 .article-section {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .article-section > * {
     width: 100%;
-}
-
-.plr {
-    padding: 0 28px;
+    padding-right: 0rem;
 }
 
 .article-content
