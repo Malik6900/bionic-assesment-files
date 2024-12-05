@@ -226,3 +226,14 @@ nav-section p {
         height: 80px;
     }
 }
+
+
+@media (width:820px) {
+    .article-content {
+    width: 100%;
+    }
+
+    .article-img {
+        height: 380px;
+    }
+}
