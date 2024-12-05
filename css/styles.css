@@ -121,7 +121,7 @@ nav-section p {
 }
 
 .map {
-    width: 100%;
+    width: 340px;
     height: 300px;
 }
 
@@ -233,6 +233,12 @@ nav-section p {
     nav-section p {
         font-size: 16px;
     }
+
+    .map {
+        width: 340px;
+        height: 300px;
+    }
+    
     
 
     .service-content {
