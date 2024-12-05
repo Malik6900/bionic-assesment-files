@@ -79,6 +79,10 @@ nav-section p {
     font-size: 18px;
     text-transform: uppercase;
     padding-top: 10px;
+    padding-left: 50px;
+    text-align: center;
+    position: relative;
+    width: 100%;
 }
 
 .heating {
@@ -217,6 +221,8 @@ nav-section p {
 
     .site-logo {
         font-size: 30px;
+        text-align: left;
+        padding-left: 0;
     }
 
     nav-section p {
