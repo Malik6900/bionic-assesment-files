@@ -175,7 +175,10 @@ nav-section p {
 
 .article-section > * {
     width: 100%;
-    padding-right: 1rem;
+}
+
+.plr {
+    padding: 0 28px;
 }
 
 .article-content
