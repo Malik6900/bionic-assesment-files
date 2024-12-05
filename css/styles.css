@@ -183,6 +183,13 @@ nav-section p {
     height: 260px;
 }
 
+.article-img:hover {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+}
+
+
 .pt {
     padding-top: 20px;   
 }
@@ -234,8 +241,7 @@ nav-section p {
     }
 }
 
-
-@media (width:820px) {
+@media (max-width:1024px) {
     .article-content {
     width: 100%;
     }
