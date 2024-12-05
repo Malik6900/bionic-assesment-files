@@ -78,6 +78,7 @@ nav-section p {
     font-weight: 600;
     font-size: 18px;
     text-transform: uppercase;
+    padding-top: 10px;
 }
 
 .heating {
