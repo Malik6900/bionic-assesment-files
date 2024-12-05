@@ -90,6 +90,12 @@ nav-section p {
     width: 50px;
 }
 
+.nav-img-width:hover {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+}
+
 .cooling {
     display: grid;
     justify-items: center;
