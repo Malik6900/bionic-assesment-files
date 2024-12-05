@@ -137,6 +137,10 @@ nav-section p {
 
 }
 
+.service-text {
+    align-content: center;
+}
+
 .service-content > * {
     padding: 0em
 }
