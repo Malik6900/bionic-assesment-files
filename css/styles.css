@@ -264,7 +264,7 @@ nav-section p {
 
     
 
-@media (max-width:1024px) {
+@media (min-width:1024px) {
     .article-content {
     width: 100%;
     }
