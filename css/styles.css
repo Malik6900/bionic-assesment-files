@@ -261,6 +261,12 @@ nav-section p {
     }
 }
 
+@media (max-width:1920px) {
+    .map {
+        width: 400px;
+    }
+}
+
 @media (max-width:1024px) {
     .article-content {
     width: 100%;
