@@ -121,7 +121,7 @@ nav-section p {
 }
 
 .map {
-    width: 440px;
+    width: 340px;
     height: 300px;
 }
 
@@ -266,7 +266,7 @@ nav-section p {
 
 @media (min-width:1024px) {
     .article-content {
-    width: 100%;
+    width: 32%;
     }
     .map {
         width: 440px;
