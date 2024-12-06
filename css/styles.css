@@ -240,7 +240,7 @@ nav-section p {
     }
 
     .map {
-        width: 440px;
+        width: 400px;
         height: 300px;
     }
 
@@ -263,7 +263,7 @@ nav-section p {
 
 @media (max-width:1920px) {
     .map {
-        width: 400px;
+        width: 440px;
     }
 }
 
