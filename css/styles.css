@@ -223,6 +223,7 @@ nav-section p {
 
     .container-map {
         width: 30%;
+        text-align: right;
     }
 
     .site-logo {
